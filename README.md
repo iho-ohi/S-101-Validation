@@ -4,6 +4,8 @@ S-101 Github repository for Validation Check development.
 Comments and suggestions for improvement of the checks are highly appreciated. Please include the development ID in the title of each issue that relates to an existing check.
 
 ## Description of files<br>
+### S-101 Annex C_Validation Checks Ed 1.2.0.20231005.xlsx<br>
+Check messages added to some of the checks in Part 4.<br>
 ### S-101 Annex C_Validation Checks Ed 1.2.0.20230920.xlsx<br>
 Amendments made by DK to align terminology in Part 4 with S-58.<br>
 ### S-101 Annex C_Validation Checks Ed 1.2.0.20230915.xlsx<br>
