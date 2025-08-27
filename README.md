@@ -1,14 +1,10 @@
-# S-101-Validation
+k# S-101-Validation
 S-101 Github repository for Validation Check development.
 
-Comments and suggestions for improvement of the checks are highly appreciated. Please include the development ID in the title of each issue that relates to an existing check.
+Comments and suggestions for improvement of the checks are highly appreciated. Please include the check ID in the title of each issue that relates to an existing check.
 
 ## Description of files<br>
-### S-101 Annex C_Validation Checks Ed 1.3.0.xlsx<br>
-Checks updated based on changes in 1.3.0 FC and DCEG.<br>
-### S-101 Annex C_Validation Checks Ed 1.2.0.20231005.xlsx<br>
-Check messages added to some of the checks in Part 4.<br>
-### S-101 Annex C_Validation Checks Ed 1.2.0.20230920.xlsx<br>
-Amendments made by DK to align terminology in Part 4 with S-58.<br>
-### S-101 Annex C_Validation Checks Ed 1.2.0.20230915.xlsx<br>
-This file is the first working document for edition 1.2.0. The file is the same as 1.1.1 Annex C but a development id has been added for each check. The old can still be found in column B or D (hided).
+### S-158-101_Validation_Checks_Ed_1.1.0.250827.xlsx<br>
+First draft for S-158:101 edition 1.1.0.<br>
+This version contains corrections and changes based on reported clear duplicates, simplifications and alignment with DCEG.<br>
+Issues relating to corrections are closed, while issues relating to implemented changes are kept open until they are confirmed by the Validation Subgroup.
