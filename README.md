@@ -1,5 +1,5 @@
-k# S-101-Validation
-S-101 Github repository for Validation Check development.
+# S-101-Validation
+S-101 Github repository for maintenance of S-158:101.
 
 Comments and suggestions for improvement of the checks are highly appreciated. Please include the check ID in the title of each issue that relates to an existing check.
 
